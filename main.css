@@ -2,10 +2,9 @@
     text-align: center;
 }
 
-
-
 .ser {
     font-size: small;
-    width: 180px;
+    width: 200px;
+    text-align: center;
     display: inline-block;
 }
